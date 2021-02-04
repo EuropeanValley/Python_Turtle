@@ -4,5 +4,5 @@ Debes mantener una buena proporción y simitud en el dibujo. Para terminar debe 
 
 * No es necesario hacer el **entrelazado de los circulos**
 
-![](https://e7.pngegg.com/pngimages/164/481/png-clipart-olympic-rings-olympic-rings-thumbnail.png)
+![](https://github.com/EuropeanValley/Python_Turtle/blob/main/ArosOlimpicos.jpg)
 ### Tokio 2021
