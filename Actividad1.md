@@ -4,5 +4,5 @@ Debes mantener una buena proporción y simitud en el dibujo. Para terminar debe 
 
 * No es necesario hacer el **entrelazado de los circulos**
 
-![](https://github.com/EuropeanValley/Python_Turtle/blob/main/ArosOlimpicos.jpg)
+![](ArosOlimpicos.jpg)
 ### Tokio 2021
